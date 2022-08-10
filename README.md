@@ -4,14 +4,18 @@
 
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/itou332/pine)
 
+ようこそ私の項目へ。この項目は、新しい発想のための書置きです。<br>
+PCで描いた絵をここに記録します。<br><br>
+このサイトはダークモードにしたり、ブラウザーを変えると見え方が少し変わります。<br>
+pc,androidのスペックでも絵が変化します。絵はほぼsvg形式で書かれています。
 
-PCで描いた絵をここに記録します。<br>
-このサイトはダークモードにしたり、ブラウザーを変えると見え方が少し変わります。<br> 
-pc,androidのスペックでも絵が変化します。絵はほぼsvg形式で書かれています。<br>
-This is where I record the pictures I draw on my PC.<br>
+Welcome to my section.I am a beginner in everything.<br>
+This item is a note for new ideas.<br>
+This is where I record the pictures I draw on my PC.<br><br>
 This site looks a little different if you use dark mode or change your browser.<br>
-The picture will also change depending on the specs of your PC or android. The pictures are written in svg format.
+The picture will also change depending on the specs of your PC or android.<br> The pictures are written in svg format.
 
+by itou332
 
 ## *献立
 -<a href="https://itou332.github.io/top_page/">主項</a>
