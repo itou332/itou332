@@ -1,6 +1,5 @@
 ## 説明
 
-# 皆さんいつもありがとうございます。
 
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/itou332/pine)
 
@@ -34,4 +33,4 @@ by itou332
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
 
-![github](https://user-images.githubusercontent.com/86036169/175470317-bd618e83-686c-40ca-ae5e-29bce2736220.png)
+![test](https://user-images.githubusercontent.com/86036169/191900018-3a622dcc-f0ff-4142-93a8-a4b592223627.png)
