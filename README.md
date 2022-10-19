@@ -16,8 +16,6 @@ The picture will also change depending on the specs of your PC or android.<br> T
 
 by itou332
 
-<img src="https://drive.google.com/uc?export=view&id=1YlYjLKUQCQEBijHa2WX5wezp_UdZjlVo" >
-
 ## *献立
 -<a href="https://itou332.github.io/top_page/">主項</a>
 -<a href="https://itou332.github.io/">1項</a>
