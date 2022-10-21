@@ -18,7 +18,7 @@ by itou332
 
 <a href="https://drive.google.com/uc?export=download&id=1YlYjLKUQCQEBijHa2WX5wezp_UdZjlVo">TEST</a>
 
-https://drive.google.com/uc?export=view&id=1YlYjLKUQCQEBijHa2WX5wezp_UdZjlVo/view?usp=sharing
+https://drive.google.com/uc?export=view&id=1YlYjLKUQCQEBijHa2WX5wezp_UdZjlVo
 
    
 ## *献立
