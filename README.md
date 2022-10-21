@@ -17,6 +17,9 @@ The picture will also change depending on the specs of your PC or android.<br> T
 by itou332
 
 <a href="https://drive.google.com/uc?export=download&id=1YlYjLKUQCQEBijHa2WX5wezp_UdZjlVo">TEST</a>
+
+https://drive.google.com/uc?export=view&id=1YlYjLKUQCQEBijHa2WX5wezp_UdZjlVo/view?usp=sharing
+
    
 ## *献立
 -<a href="https://itou332.github.io/top_page/">主項</a>
