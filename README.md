@@ -16,7 +16,7 @@ The picture will also change depending on the specs of your PC or android.<br> T
 
 by itou332
 
-<a href="https://drive.google.com/file/d/1YlYjLKUQCQEBijHa2WX5wezp_UdZjlVo/view?usp=sharing/">test<a>
+<a href="ftp://sv1.php.starfree.ne.jp/11,pine/2022_10_13.SVG">test<a>
    
 ## *献立
 -<a href="https://itou332.github.io/top_page/">主項</a>
