@@ -15,8 +15,6 @@ This site looks a little different if you use dark mode or change your browser.<
 The picture will also change depending on the specs of your PC or android.<br> The pictures are written in svg format.
 
 by itou332
-
-<img src="https://drive.google.com/file/d/1YlYjLKUQCQEBijHa2WX5wezp_UdZjlVo/view?usp=sharing" alt="">
    
 ## *献立
 -<a href="https://itou332.github.io/top_page/">主項</a>
