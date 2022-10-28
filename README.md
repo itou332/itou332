@@ -1,7 +1,7 @@
 ## 説明
 
 # 2022/10/28<br> 
-## 画像の表示方法を変えました。<br>androidで表示できない画像があります。
+## 画像の表示方法を変更しました。<br>androidで表示できない画像があります。
 
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/itou332/pine)
 
