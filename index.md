@@ -1,5 +1,5 @@
 <head>
-<link rel="stylesheet" href="C:\Users\CENTURY_SSD_250GB\Documents\GitHub\12.banboo\style.css">
+<link rel="stylesheet" href="style.css">
 </head>
 <!-- .slide: data-fullscreen -->
 <style>
@@ -65,7 +65,7 @@ animation: mymove 10s infinite;
 
 <!-- .slide: data-fullscreen -->
 ##　BANBOO
-<img src ="C:\Users\CENTURY_SSD_250GB\Documents\GitHub\12.banboo\take.png">
+<img src ="take.png">
 <!-- .slide: data-fullscreen -->
 <p>
 PCで描いた絵をここに記録します。<br>
