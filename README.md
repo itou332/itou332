@@ -1,7 +1,5 @@
 ## 説明
 
-# 2022/10/28<br> 
-## 画像の表示方法を変更しました。<br>androidで表示できない画像があります。
 
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/itou332/pine)
 
@@ -17,7 +15,7 @@ This site looks a little different if you use dark mode or change your browser.<
 The picture will also change depending on the specs of your PC or android.<br> The pictures are written in svg format.
 
 by itou332
-   
+
 ## *献立
 -<a href="https://itou332.github.io/top_page/">主項</a>
 -<a href="https://itou332.github.io/">1項</a>
@@ -31,6 +29,7 @@ by itou332
 -<a href="https://itou332.github.io/culture/">9項</a>
 -<a href="https://itou332.github.io/walk/">10項</a>
 -<a href="https://itou332.github.io/pine/">11項</a>
+-<a href="https://itou332.github.io/banboo/">12項</a>
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
