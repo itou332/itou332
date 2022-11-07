@@ -1,7 +1,3 @@
-## 説明
-
-new
-<<a href="https://itou332.github.io/itou332/"> banboo </a>
 
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/itou332/pine)
 
@@ -17,6 +13,7 @@ This site looks a little different if you use dark mode or change your browser.<
 The picture will also change depending on the specs of your PC or android.<br> The pictures are written in svg format.
 
 by itou332
+## new<br>-<a href="https://itou332.github.io/itou332/"> banboo </a>-
 
 ## *献立
 -<a href="https://itou332.github.io/top_page/">主項</a>
