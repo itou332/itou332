@@ -37,4 +37,4 @@ by itou332
     -<a href="http://itou33good.starfree.jp/">itou</a>
     </nav>
 
-[!test](http://itou33good.starfree.jp/wp-content/uploads/2022/12/Animation2.gif)
+![test](http://itou33good.starfree.jp/wp-content/uploads/2022/12/Animation2.gif)
