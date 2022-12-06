@@ -16,6 +16,9 @@ The picture will also change depending on the specs of your PC or android.<br> T
 
 by itou332
 
+## new
+<a href="https://itou332.github.io/itou332/">plum</a>
+
 <nav aria-label="サイト内メニュー">
  *献立
     -<a href="https://itou332.github.io/top_page/">主項</a>
