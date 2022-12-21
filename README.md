@@ -11,8 +11,9 @@ pc,androidのスペックでも絵が変化します。絵はほぼsvg形式で�
 Welcome to my section.I am a beginner in everything.<br>
 This item is a note for new ideas.<br>
 This is where I record the pictures I draw on my PC.<br><br>
-This site looks a little different if you use dark mode or change your browser.<br>
-The picture will also change depending on the specs of your PC or android.<br> The pictures are written in svg format.
+This site looks a little different when you put it in dark mode or change browsers.<br>
+The picture changes even with PC and Android specs.<br>
+The picture is written almost in SVG format.
 
 by itou332
 
