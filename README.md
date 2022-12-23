@@ -18,7 +18,7 @@ The picture is written almost in SVG format.
 by itou332
 
 ## new
-<a href="https://itou332.github.io/itou332/">plum</a>
+<a href="https://itou332.github.io/cypress/">cypress</a>
 
   <nav aria-label="サイト内メニュー">
  *献立
