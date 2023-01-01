@@ -16,15 +16,14 @@ The picture changes even with PC and Android specs.<br>
 The picture is written almost in SVG format.
 
 
-使用Browser
-
-　Microsoft Edge
-　Mozilla Waterfox(Mozilla Firefox)
+使用Browser<br>
+Microsoft Edge<br>
+Mozilla Waterfox(Mozilla Firefox)
 
 by itou332
 
 ## new
-<a href="https://itou332.github.io/cypress/">謹賀新年</a>
+## <a href="index.html">謹賀新年</a>
 
   <nav aria-label="サイト内メニュー">
  *献立
