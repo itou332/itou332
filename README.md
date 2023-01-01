@@ -15,10 +15,16 @@ This site looks a little different when you put it in dark mode or change browse
 The picture changes even with PC and Android specs.<br>
 The picture is written almost in SVG format.
 
+
+使用Browser
+
+　Microsoft Edge
+　Mozilla Waterfox(Mozilla Firefox)
+
 by itou332
 
 ## new
-<a href="https://itou332.github.io/cypress/">cypress</a>
+<a href="https://itou332.github.io/cypress/">謹賀新年</a>
 
   <nav aria-label="サイト内メニュー">
  *献立
@@ -42,4 +48,3 @@ by itou332
     -<a href="http://itou33good.starfree.jp/">itou</a>
     </nav>
 
-![test](http://itou33good.starfree.jp/wp-content/uploads/2022/12/Animation2.gif)
