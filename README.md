@@ -16,7 +16,7 @@ The picture changes even with PC and Android specs.<br>
 The picture is written almost in SVG format.
 
 
-Use Browser<br>
+My Use Browser<br>
 Microsoft Edge<br>
 Mozilla Waterfox(Mozilla Firefox)
 
