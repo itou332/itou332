@@ -23,7 +23,7 @@ Mozilla Waterfox(Mozilla Firefox)
 by itou332
 
 ## new
-## <a href="https://itou332.github.io/itou332/"> 謹賀新年</a>
+## <a href ="https://itou332.github.io/cypress/"> cypress</a>
 
   <nav aria-label="サイト内メニュー">
  *献立
@@ -47,4 +47,3 @@ by itou332
     -<a href="http://itou33good.starfree.jp/">itou</a>
     </nav>
 
-![test](https://github.com/itou332/top_page/raw/gh-pages/akaino.gif)
