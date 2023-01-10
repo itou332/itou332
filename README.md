@@ -47,3 +47,4 @@ by itou332
     -<a href="http://itou33good.starfree.jp/">itou</a>
     </nav>
 
+![test](akaino.gif)
