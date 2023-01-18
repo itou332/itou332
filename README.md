@@ -47,4 +47,4 @@ by itou332
     -<a href="http://itou33good.starfree.jp/">itou</a>
     </nav>
 
-![akaino.gif](https://github.com/itou332/top_page/blob/gh-pages/akaino.gif))
+![akaino.gif](https://github.com/itou332/top_page/blob/gh-pages/akaino.gif)
