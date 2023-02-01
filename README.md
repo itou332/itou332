@@ -25,6 +25,10 @@ by itou332
 ## new
 ## <a href ="https://itou332.github.io/cypress/"> cypress</a>
 
+{% include /_includdes/nav.html %}
+
+
+<!--
   <nav aria-label="サイト内メニュー">
  *献立
     -<a href="https://itou332.github.io/top_page/">主項</a>
@@ -46,5 +50,6 @@ by itou332
     -<a href="https://github.com/itou332">my github</a>
     -<a href="http://itou33good.starfree.jp/">itou</a>
     </nav>
+-->
 
 ![akaino.gif](https://github.com/itou332/itou332/blob/main/Animation3.gif)
