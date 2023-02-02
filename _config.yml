@@ -1,7 +1,7 @@
 plugins:
- - jekyll-sitemap
   - jekyll-sitemap
   - jekyll-seo-tag
-revealjs_config: #以下、reveal.js用の個別設定（厳密には上の、themeもtransitionもreveal.jsの設定です）
-  autoSlide: 5000
-  loop: true
+  
+include_markdown:
+  dir: source/_template   # Base directory of template markdown
+  verbose : true          # If you want to check the path of markdown that use <!-- md --> tag , please set the true.
