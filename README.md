@@ -29,7 +29,7 @@ by itou332
 <!--md your-markdown-"C:\Users\ULTRABOOK\Documents\GitHub\_includdes\nav.md"-->
 
 
-<!--
+
   <nav aria-label="サイト内メニュー">
  *献立
     -<a href="https://itou332.github.io/top_page/">主項</a>
@@ -51,6 +51,6 @@ by itou332
     -<a href="https://github.com/itou332">my github</a>
     -<a href="http://itou33good.starfree.jp/">itou</a>
     </nav>
-    -->
+  
 
-![akaino.gif](https://github.com/itou332/itou332/blob/main/Animation3.gif))
+![akaino.gif](https://github.com/itou332/itou332/blob/main/Animation3.gif)
