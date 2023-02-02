@@ -25,7 +25,6 @@ by itou332
 ## new
 ## <a href ="https://itou332.github.io/cypress/"> cypress</a>
 
-{% include_relative C:\Users\ULTRABOOK\Documents\GitHub\_includdes\nav.html %}
 
 <!--md your-markdown-"C:\Users\ULTRABOOK\Documents\GitHub\_includdes\nav.md"-->
 
@@ -54,4 +53,4 @@ by itou332
     </nav>
     -->
 
-![akaino.gif](https://github.com/itou332/top_page/blob/gh-pages/akaino.gif))
+![akaino.gif](https://github.com/itou332/itou332/blob/main/Animation3.gif))
