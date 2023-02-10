@@ -50,5 +50,5 @@ by itou332
     -<a href="http://itou33good.starfree.jp/">itou</a>
     </nav>
   
-###  主項　+ F5
+###  主項 + F5
 ![akaino.gif](https://github.com/itou332/itou332/blob/main/Animation3.gif)
