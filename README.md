@@ -50,6 +50,5 @@ by itou332
     -<a href="http://itou33good.starfree.jp/">itou</a>
     </nav>
   
-### 　my　default　icon
 ![defaul_icon.png](https://github.com/itou332/itou332/blob/main/git_identicon.png)
 ![defaul_icon.gif](https://github.com/itou332/itou332/blob/main/git_icon_lifegame1.gif)
