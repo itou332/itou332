@@ -1,4 +1,4 @@
-## 説明
+### 説明
 
 
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/itou332/Privacy-policy)
@@ -16,13 +16,12 @@ The picture changes even with PC and Android specs.<br>
 The picture is written almost in SVG format.
 
 
-My Use Browser<br>
+### My Use Browser<br>
 Microsoft Edge<br>
-Mozilla Waterfox(Mozilla Firefox)
 
-by itou332
+_by itou332_
 
-## new
+# new
 ## <a href ="https://itou332.github.io/Castanea/">Castanea</a>
 
 
