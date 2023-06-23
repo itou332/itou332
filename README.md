@@ -15,10 +15,6 @@ This site looks a little different when you put it in dark mode or change browse
 The picture changes even with PC and Android specs.<br>
 The picture is written almost in SVG format.
 
-
-### My Use Browser<br>
-Microsoft Edge<br>
-
 _by itou332_
 
 # new
