@@ -52,3 +52,4 @@ _by itou332_
 <!--
 ![defaul_icon.png](https://github.com/itou332/itou332/blob/main/git_identicon.png)
 ![defaul_icon.gif](https://github.com/itou332/itou332/blob/main/git_icon_lifegame1.gif)-->
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fitou332%2Fitou332.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fitou332%2Fitou332?ref=badge_shield)
