@@ -6,21 +6,25 @@
 
 [![news](https://github.com/itou332/itou332/blob/main/test_obi_siro3.svg)](https://itou332.github.io/Castanea/)
 
-
-ようこそ私の項目へ。この項目は、新しい発想のための書置きです。<br>
-PCで描いた絵をここに記録します。<br><br>
-このサイトはダークモードにしたり、ブラウザーを変えると見え方が少し変わります。<br>
+<pre>
+ようこそ私の項目へ。この項目は、新しい発想のための書置きです。
+PCで描いた絵をここに記録します。
+このサイトはダークモードにしたり、ブラウザーを変えると見え方が少し変わります。
 pc,androidのスペックでも絵が変化します。絵はほぼsvg形式で書かれています。
 
-Welcome to my section.I am a beginner in everything.<br>
-This item is a note for new ideas.<br>
-This is where I record the pictures I draw on my PC.<br><br>
-This site looks a little different when you put it in dark mode or change browsers.<br>
-The picture changes even with PC and Android specs.<br>
+-ベンチマークを実行するのに最適な項目です。-
+
+Welcome to my section.I am a beginner in everything.
+This item is a note for new ideas.
+This is where I record the pictures I draw on my PC.
+This site looks a little different when you put it in dark mode or change browsers.
+The picture changes even with PC and Android specs.
 The picture is written almost in SVG format.
 
-_by itou332_
+-This is a great item to run benchmarks on.-
 
+_by itou332_
+</pre>
 # new
 ## <a href ="https://itou332.github.io/Castanea/">Castanea</a>
 
