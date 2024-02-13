@@ -54,3 +54,4 @@ new
 ![defaul_icon.png](https://github.com/itou332/itou332/blob/main/git_identicon.png)
 ![defaul_icon.gif](https://github.com/itou332/itou332/blob/main/git_icon_lifegame1.gif)-->
 
+url(http://drive.google.com/uc?export=1EQFMxHPgXrHCNVzfmxqxuyXS_AIt_8VW);
