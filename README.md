@@ -1,6 +1,7 @@
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/itou332/Privacy-policy)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fitou332%2Fitou332.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fitou332%2Fitou332?ref=badge_shield)
 [![news](https://github.com/itou332/itou332/blob/main/test_obi_siro3.svg)](https://itou332.github.io/Castanea/)
+
 <pre>
 ようこそ私の項目へ。この項目は、新しい発想のための書置きです。
 PCで描いた絵をここに記録します。
@@ -22,6 +23,16 @@ _by itou332_
 
 new
 <a href ="https://itou332.github.io/Castanea/">Castanea</a>
+    /     /      / 
+   .     .      '
+      /          /
+     .          '
+   /      /        /
+  .      .        '
+      /    /        /
+     '    .        .
+__W_____w______w____
+----------------------
 </pre>
 
 <!--md your-markdown-"C:\Users\ULTRABOOK\Documents\GitHub\_includdes\nav.md"-->
