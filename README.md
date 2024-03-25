@@ -23,16 +23,16 @@ _by itou332_
 
 new
 <a href ="https://itou332.github.io/Castanea/">Castanea</a>
-    /     /      / 
-   .     .      '
-      /          /
-     .          '
-   /      /        /
-  .      .        '
-      /    /        /
-     '    .        .
-__W_____w______w____
-----------------------
+    /     /      /     /     /      / 
+   .     .      '    .     .       '
+     .          '         /      "   /
+   /      /        /    .           '
+  .      .        '    /      /    /   /
+      /    /        / .      .    ,    '
+     '    .        .       /    /        /
+                          '   .        .
+__W_____w_ ____w____ __W_____w______w_  __
+
 </pre>
 
 <!--md your-markdown-"C:\Users\ULTRABOOK\Documents\GitHub\_includdes\nav.md"-->
