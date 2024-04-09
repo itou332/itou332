@@ -34,7 +34,7 @@ new
 __W_____w_ ____w____ __W_____w______w_  __
 
 </pre>
-
+![defaul_icon.png](https://drive.google.com/thumbnail?id=1lhqb2Ff7w87MsCpHaiD_x7jtreuY8f1U=w200)
 <!--md your-markdown-"C:\Users\ULTRABOOK\Documents\GitHub\_includdes\nav.md"-->
 
    <nav aria-label="サイト内メニュー">
