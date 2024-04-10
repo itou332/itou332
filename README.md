@@ -2,7 +2,7 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fitou332%2Fitou332.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fitou332%2Fitou332?ref=badge_shield)
 [![news](https://github.com/itou332/itou332/blob/main/test_obi_siro3.svg)](https://itou332.github.io/Castanea/)
 
-<pre>
+<pre link href="https://fonts.googleapis.com/css?family=Droid+Serif" type="text/css" rel="stylesheet">
 ようこそ私の項目へ。この項目は、新しい発想のための書置きです。
 PCで描いた絵をここに記録します。
 このサイトはダークモードにしたり、ブラウザーを変えると見え方が少し変わります。
