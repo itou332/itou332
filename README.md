@@ -24,7 +24,7 @@ The picture is written almost in SVG format.
 _by itou332_
 
 new
-<a href =" https://itou332.github.io/two/">two(test)</a>
+<a href ="https://itou332.github.io/two/">two(test)</a>
     /     /      /          /      / 
    .     .      '         .       '
      .          '                "   /
