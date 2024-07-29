@@ -67,7 +67,7 @@ __W_____w_ ____w____ __W_____w______w_  __
     -<a href="https://itou332.github.io/Castanea/">16項</a>
     -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
     -<a href="https://github.com/itou332">my github</a>
-    -<a href="http://itou33good.starfree.jp/">itou</a>
+    -<a href="https://redirect-adp.pages.dev/">itou</a>
    </nav>
    
 <!--
