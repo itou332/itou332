@@ -10,8 +10,6 @@ PCで描いた絵をここに記録します。
 このサイトはダークモードにしたり、ブラウザーを変えると見え方が少し変わります。
 pc,androidのスペックでも絵が変化します。絵はほぼsvg形式で書かれています。
 
--ベンチマークを実行するのに最適な項目です。-
-
 Welcome to my section.I am a beginner in everything.
 This item is a note for new ideas.
 This is where I record the pictures I draw on my PC.
@@ -19,33 +17,10 @@ This site looks a little different when you put it in dark mode or change browse
 The picture changes even with PC and Android specs.
 The picture is written almost in SVG format.
 
--This is a great item to run benchmarks on.-
-
 _by itou332_
 
 new
 <a href ="https://itou332.github.io/two/">two(test)</a>
-
-（www　=　ワールドワイドウェブ　＝　世界規模の蜘蛛の巣　=　せきく）　≒　web
-
-                                    ↓
-
-                            web絵　≒　せきく絵
-
-            この項目の名称を　「せきく絵」　に変更しました。
-
-
-    /     /      /          /      / 
-   .     .      '         .       '
-     .          '                "   /
-   /      /        /                '
-  .      .        '    /      /       /
-           /        / .      .       '
-          .        .
-       /    /                   /         /
-      "    '                   .         .
-__W_____w_ ____w____ __W_____w______w_  __
-
 </pre>
 <!--md your-markdown-"C:\Users\ULTRABOOK\Documents\GitHub\_includdes\nav.md"-->
 
@@ -70,7 +45,7 @@ __W_____w_ ____w____ __W_____w______w_  __
     -<a href="https://itou332.github.io/Castanea/">16項</a>
     -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
     -<a href="https://github.com/itou332">my github</a>
-    -<a href="https://redirect-adp.pages.dev/">itou</a>
+    -<a href="http://itou33good.starfree.jp/">itou</a>
    </nav>
    
 <!--
