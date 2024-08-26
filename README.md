@@ -47,7 +47,6 @@ new
     -<a href="https://github.com/itou332">my github</a>
     -<a href="http://redirect-adp.pages.dev/">itou</a>
    </nav>
-   [![logo](https://github.com/itou332/itou332/blob/main/log_test.svg)]
 <!--
 ![defaul_icon.png](https://github.com/itou332/itou332/blob/main/git_identicon.png)
 ![defaul_icon.gif](https://github.com/itou332/itou332/blob/main/git_icon_lifegame1.gif)-->
