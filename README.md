@@ -21,6 +21,158 @@ _by itou332_
 
 new
 <a href ="https://itou332.github.io/two/">two(test)</a>
+                                                               <svg
+   width="16.335426mm"
+   height="16.374397mm"
+   viewBox="0 0 33.335427 33.374398"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="huusilya.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.2031851"
+     inkscape:cx="91.839569"
+     inkscape:cy="77.710404"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="168.80647"
+       y="528.25122"
+       width="90.835815"
+       height="44.443275"
+       id="rect8" />
+    <rect
+       x="211.71295"
+       y="477.45679"
+       width="35.285492"
+       height="39.696178"
+       id="rect3" />
+    <rect
+       x="194.07021"
+       y="465.32742"
+       width="66.160294"
+       height="66.160294"
+       id="rect1" />
+    <rect
+       x="168.80647"
+       y="528.25122"
+       width="90.835815"
+       height="44.443275"
+       id="rect8-7" />
+    <rect
+       x="168.80647"
+       y="528.25122"
+       width="90.835815"
+       height="44.443275"
+       id="rect8-3" />
+    <rect
+       x="168.80647"
+       y="528.25122"
+       width="90.835815"
+       height="44.443275"
+       id="rect8-34" />
+    <rect
+       x="168.80647"
+       y="528.25122"
+       width="90.835815"
+       height="44.443275"
+       id="rect8-32" />
+    <rect
+       x="168.80647"
+       y="528.25122"
+       width="90.835815"
+       height="44.443275"
+       id="rect8-1" />
+    <rect
+       x="168.80647"
+       y="528.25122"
+       width="90.835815"
+       height="44.443275"
+       id="rect8-32-0" />
+    <rect
+       x="168.80647"
+       y="528.25122"
+       width="90.835815"
+       height="44.443275"
+       id="rect8-1-0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-101.74018,-128.10206)">
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.2;font-family:'Yu Mincho';-inkscape-font-specification:'Yu Mincho';letter-spacing:1.28852px;fill:#ffe902;stroke-width:0.264583"
+       x="123.11788"
+       y="127.20236"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="stroke-width:0.264583"
+         x="123.11788"
+         y="127.20236"></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,0.26458333,-0.26458333,0,260.87714,98.292215)"
+       id="text8-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.2;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:1px;white-space:pre;shape-inside:url(#rect8-32);display:inline;fill:#0044a2;fill-opacity:1"><tspan
+         x="168.80664"
+         y="564.06859"
+         id="tspan7"><tspan
+           style="font-family:MisakiGothic;-inkscape-font-specification:MisakiGothic"
+           id="tspan6">itou</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.26458333,0.26458333,0,-24.03131,191.2863)"
+       id="text8-70"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.2;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:1px;white-space:pre;shape-inside:url(#rect8-1);display:inline;fill:#1dbf00;fill-opacity:1"><tspan
+         x="168.80664"
+         y="564.06859"
+         id="tspan9"><tspan
+           style="font-family:MisakiGothic;-inkscape-font-specification:MisakiGothic"
+           id="tspan8">itou</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(-0.26458333,0,0,-0.26458333,164.92442,287.21805)"
+       id="text8-70-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.2;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:1px;white-space:pre;shape-inside:url(#rect8-1-0);display:inline;fill:#ffeb0e;fill-opacity:1"><tspan
+         x="168.80664"
+         y="564.06859"
+         id="tspan11"><tspan
+           style="font-family:MisakiGothic;-inkscape-font-specification:MisakiGothic"
+           id="tspan10">itou</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,71.891365,2.321241)"
+       id="text8-4-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.2;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';letter-spacing:0px;word-spacing:1px;white-space:pre;shape-inside:url(#rect8-32-0);display:inline;fill:#ff2d01;fill-opacity:1"><tspan
+         x="168.80664"
+         y="564.06859"
+         id="tspan13"><tspan
+           style="font-family:MisakiGothic;-inkscape-font-specification:MisakiGothic"
+           id="tspan12">itou</tspan></tspan></text>
+  </g>
+</svg>
 </pre>
 <!--md your-markdown-"C:\Users\ULTRABOOK\Documents\GitHub\_includdes\nav.md"-->
 
@@ -45,9 +197,9 @@ new
     -<a href="https://itou332.github.io/Castanea/">16項</a>
     -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
     -<a href="https://github.com/itou332">my github</a>
-    -<a href="http://itou33good.starfree.jp/">itou</a>
+    -<a href="http://redirect-adp.pages.dev/">itou</a>
    </nav>
-   
+  
 <!--
 ![defaul_icon.png](https://github.com/itou332/itou332/blob/main/git_identicon.png)
 ![defaul_icon.gif](https://github.com/itou332/itou332/blob/main/git_icon_lifegame1.gif)-->
