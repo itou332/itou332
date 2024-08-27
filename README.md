@@ -3,7 +3,7 @@
 [![nbviewer](https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nbviewer_badge.svg)](https://nbviewer.org/github/itou332/)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fitou332%2Fitou332.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fitou332%2Fitou332?ref=badge_shield)
 [![news](https://github.com/itou332/itou332/blob/main/test_obi3.svg)]( https://itou332.github.io/two/)
-![defaul_test.svg](https://github.com/itou332/itou332/blob/main/log_test.svg)
+![itou_no_huusilya.svg](https://github.com/itou332/itou332/blob/main/log_test.svg)
 
 <pre>
 ようこそ私の項目へ。この項目は、新しい発想のための書置きです。
