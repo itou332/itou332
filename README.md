@@ -20,8 +20,9 @@ The picture is written almost in SVG format.
 
 _by itou332_
 
-new
-<a href ="https://itou332.github.io/two/">two(test)</a>
+new　
+2024_10_25更新
+<a href ="https://itou332.github.io/three/">three</a>
 </pre>
 <!--md your-markdown-"C:\Users\ULTRABOOK\Documents\GitHub\_includdes\nav.md"-->
 
