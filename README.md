@@ -23,6 +23,9 @@ _by itou332_
 new　
 2024_10_25更新
 <a href ="https://itou332.github.io/three/">three</a>
+
+目標
+   質感と造形で質量を表現する
 </pre>
 <!--md your-markdown-"C:\Users\ULTRABOOK\Documents\GitHub\_includdes\nav.md"-->
 
