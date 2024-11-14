@@ -1,3 +1,13 @@
+<head>
+<style>
+@font-face {
+  font-family: 'YourFontName';
+  src: url('./misaki_ttf/misaki_gothic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+</style>
+</head>
 
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://vscode.dev/?vscode-lang=ja)
 [![nbviewer](https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nbviewer_badge.svg)](https://nbviewer.org/github/itou332/)
