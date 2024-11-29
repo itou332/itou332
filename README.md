@@ -20,7 +20,7 @@ The picture is written almost in SVG format.
 _by itou332_
 
 new　
-2024_10_25更新
+2024_10_25 更新
 <a href ="https://itou332.github.io/three/">three</a>
 
 目標/objective
