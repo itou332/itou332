@@ -21,12 +21,14 @@ _by itou332_
 new　
 2024_10_25 更新
 <a href ="https://itou332.github.io/three/">three</a>
-
-目標/objective
-   質感と造形で質量を表現する/Expressing mass with texture and modeling
    
 </pre>
-<!--md your-markdown-"C:\Users\ULTRABOOK\Documents\GitHub\_includdes\nav.md"-->
+
+> [!note]
+>目標/objective
+> 
+>　質感と造形で質量を表現する/Expressing mass with texture and modeling
+
 
    <nav aria-label="サイト内メニュー">
     <p>*献立</p>
