@@ -23,7 +23,7 @@ new　
 <a href ="https://itou332.github.io/three/">three</a>
 
 2025_1_10        ----
-<a href ="https://itou332.github.io/three/">17項/Seventeenth page</a>
+<a href ="https://332-110-new-site-drive.on.drv.tw/17-github/index1.html">17項/Seventeenth page</a>
 ----
 </pre>
 
