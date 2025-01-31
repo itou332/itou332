@@ -18,13 +18,9 @@ The picture is written almost in SVG format.
 
 _by itou332_
 
-new　
-2024_10_25 更新
-<a href ="https://itou332.github.io/three/">three</a>
-
-2025_1_10        ----
-<a href ="https://332-110-new-site-drive.on.drv.tw/github_data/index01.html">17項/Seventeenth page</a>
-----
+new　 
+2025_1_31   
+<a href ="https://332-110-new-site-drive.on.drv.tw/sakuhin3.html">test</a>
 </pre>
 
 > [!note]
@@ -52,6 +48,7 @@ new　
     -<a href="https://itou332.github.io/cypress/">14項</a>
     -<a href="https://itou332.github.io/Thujopsis-dolabrata-SIEBOLD-et-ZUCCARINI/">15項</a>
     -<a href="https://itou332.github.io/Castanea/">16項</a>
+    -<a href ="https://332-110-new-site-drive.on.drv.tw/github_data/index01.html">17項</a>
     -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
     -<a href="https://github.com/itou332">my github</a>
     -<a href="http://redirect-adp.pages.dev/">itou</a>
