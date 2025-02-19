@@ -7,13 +7,14 @@
 <pre>
 この項目は新しい発想のための書置きです。
 離散表現のベクトル図形描画装置を使用した、拡大・縮小の際に画質が劣化しない形式を採用して描いた私の断片画の記録です。
-   
-This item is a note for new ideas.
-It is a record of my fragment paintings drawn using a discrete representation vector figure drawing device in a format that does not degrade the quality of the image when enlarged or reduced.
+各企画が一つの項目を形成しています。項目をつなぎ合わせ、一つにまとめてあります。下部にある繋がりから閲覧することができます。
 
+This item is a note for new ideas.
+It is a record of my fragment paintings drawn using a discrete representation vector figure drawing device in a format that does not degrade image quality when enlarged or reduced.
+Each project forms a single item. The items are joined together to form one. You can browse through the connections at the bottom.
+   
 . _1_  _
 |  L_ |_| |_[
-
 
 new　 
 2025_1_31   
