@@ -16,8 +16,7 @@ vector figure drawing device in a format that does not degrade image quality whe
 Each project forms a single item. The items are joined together to form one.
 You can browse through the connections at the bottom.
    
-. _1_  _
-|  L_ |_| |_[
+itou332
 
 new　 
 2025_1_31   
