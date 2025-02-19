@@ -5,18 +5,15 @@
 [![itou_no_huusilya.svg](https://github.com/itou332/itou332/blob/main/log_test.svg)](https://itou332.github.io/three/)
 
 <pre>
-ようこそ私の項目へ。この項目は、新しい発想のための書置きです。
-PCで描いた絵をここに記録します。
-このサイトはダークモードにしたり、ブラウザーを変えると見え方が少し変わります。
-pc,androidのスペックでも絵が変化します。絵はほぼsvg形式で書かれています。
+この項目は新しい発想のための書置きです。
+離散表現のベクトル図形描画装置を使用した、拡大・縮小の際に画質が劣化しない形式を採用して描いた私の断片画の記録です。
+   
+This item is a note for new ideas.
+It is a record of my fragment paintings drawn using a discrete representation vector figure drawing device in a format that does not degrade the quality of the image when enlarged or reduced.
 
-Welcome to my section.This item is a note for new ideas.
-This is where I record the pictures I draw on my PC.
-This site looks a little different when you put it in dark mode or change browsers.
-The picture changes even with PC and Android specs.
-The picture is written almost in SVG format.
+. _1_  _
+|  L_ |_| |_[
 
-_by itou332_
 
 new　 
 2025_1_31   
