@@ -31,6 +31,7 @@ new　
 
    <nav aria-label="サイト内メニュー">
     <a href="https://itou332.github.io/top_page/">主項 | top_page</a>
+    　/　<a href="https://itou332.github.io/redirect/">絵のLog</a>
    </nav>
 <!--
 ![defaul_icon.png](https://github.com/itou332/itou332/blob/main/git_identicon.png)
