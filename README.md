@@ -19,6 +19,9 @@ You can browse through the connections at the bottom.
 itou332
 
 new　 
+2025_6_3　
+<a href ="https://itou332.github.io/three/">three</a>
+
 2025_5_30   
 <a href ="https://v-git-color-bit.itouta33.workers.dev/">color_bit/ver-git</a>
    
