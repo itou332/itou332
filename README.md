@@ -18,7 +18,10 @@ You can browse through the connections at the bottom.
    
 itou332
 
-new　 
+new　
+2025_6_26　
+<a href ="https://itou332.github.io/two/">two</a>
+   
 2025_6_3　
 <a href ="https://itou332.github.io/three/">three</a>
 
