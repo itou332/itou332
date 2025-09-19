@@ -1,14 +1,3 @@
-<head>
-<style>
-   @font-face
-{
-font-family: 美咲ゴシック;
-src: url('https://cdn.leafscape.be/misaki/misaki_gothic_web.woff2')
-     format("woff2");
-}
-</style>
-</head>
-
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://vscode.dev/?vscode-lang=ja)
 [![nbviewer](https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nbviewer_badge.svg)](https://nbviewer.org/github/itou332/)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fitou332%2Fitou332.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fitou332%2Fitou332?ref=badge_shield)
@@ -56,4 +45,5 @@ new　
 <!--
 ![defaul_icon.png](https://github.com/itou332/itou332/blob/main/git_identicon.png)
 ![defaul_icon.gif](https://github.com/itou332/itou332/blob/main/git_icon_lifegame1.gif)-->
+
 
