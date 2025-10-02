@@ -29,7 +29,7 @@ new　
 <a href ="https://v-git-color-bit.itouta33.workers.dev/">color_bit/ver-git</a>
    
 2025_4_18
-<a href ="https://this.itouta33.workers.dev/">color_bit</a>
+<a href ="https://color-bit.itouta33.workers.dev/">color_bit</a>
 </pre>
 
 > [!note]
@@ -45,5 +45,6 @@ new　
 <!--
 ![defaul_icon.png](https://github.com/itou332/itou332/blob/main/git_identicon.png)
 ![defaul_icon.gif](https://github.com/itou332/itou332/blob/main/git_icon_lifegame1.gif)-->
+
 
 
