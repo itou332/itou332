@@ -17,21 +17,10 @@ Each project forms a single item. The items are joined together to form one.
 You can browse through the connections at the bottom.
    
 itou332
-
-new　
-2025_6_26　
-<a href ="https://itou332.github.io/two/">two</a>
    
-2025_6_3　
-<a href ="https://itou332.github.io/three/">three</a>
-
-2025_5_30   
-<a href ="https://v-git-color-bit.itouta33.workers.dev/">color_bit/ver-git</a>
-   
-2025_4_18
-<a href ="https://color-bit.itouta33.workers.dev/">color_bit</a>
 </pre>
-
+:crossed_flags:
+ :bamboo: 謹賀新年 :bamboo: 
 > [!note]
 >目標/objective
 > 
@@ -45,6 +34,7 @@ new　
 <!--
 ![defaul_icon.png](https://github.com/itou332/itou332/blob/main/git_identicon.png)
 ![defaul_icon.gif](https://github.com/itou332/itou332/blob/main/git_icon_lifegame1.gif)-->
+
 
 
 
