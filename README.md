@@ -17,10 +17,8 @@ Each project forms a single item. The items are joined together to form one.
 You can browse through the connections at the bottom.
    
 itou332
-   
 </pre>
-:crossed_flags:
- :bamboo: 謹賀新年 :bamboo: 
+
 > [!note]
 >目標/objective
 > 
@@ -34,6 +32,7 @@ itou332
 <!--
 ![defaul_icon.png](https://github.com/itou332/itou332/blob/main/git_identicon.png)
 ![defaul_icon.gif](https://github.com/itou332/itou332/blob/main/git_icon_lifegame1.gif)-->
+
 
 
 
